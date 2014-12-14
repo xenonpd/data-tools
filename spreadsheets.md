@@ -5,6 +5,18 @@ Sometimes you want to make a reference to certain worksheets dynamically. For ex
 
 
 
-Reference: http://spreadsheetpro.net/how-to-make-a-dynamic-reference-to-a-worksheet-in-excel-and-google-spreadsheets/
+References:
+
+http://spreadsheetpro.net/how-to-make-a-dynamic-reference-to-a-worksheet-in-excel-and-google-spreadsheets/
 
 
+
+Brian Connelly: Working with CSVs on the Command Line
+http://bconnelly.net/working-with-csvs-on-the-command-line/
+
+
+How to batch convert .csv to .xls/xlsx
+http://superuser.com/questions/301431/how-to-batch-convert-csv-to-xls-xlsx
+
+Merge Multiple CSV Files
+http://www.zorbathegeek.com/156/merge-multiple-csv-files.html
